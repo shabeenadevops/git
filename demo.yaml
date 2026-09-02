@@ -1,5 +1,5 @@
 ---
-- name: revert git
+- name: Install Apache
   hosts: webservers
   become: yes
 

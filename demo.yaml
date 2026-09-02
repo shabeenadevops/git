@@ -1,6 +1,6 @@
 ---
 - name: Install Apache
-  hosts: f1tservers
+  hosts: f2tservers
   become: yes
 
   tasks:
